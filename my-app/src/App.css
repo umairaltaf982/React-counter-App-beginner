@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+button{
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 10px;
+  width: 30%;
+  font-size: 25px;
+}
+
+h1{
+  background-color: darkgrey;
+  height: 45px;
+  width: 20%;
+  text-align: center;
+}
